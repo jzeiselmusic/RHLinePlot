@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .target(
             name: "RHLinePlot",
-            path: "Sources" // adjust if the files live elsewhere
+            path: "RHLinePlot"
         )
     ]
 )
